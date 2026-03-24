@@ -1,6 +1,6 @@
-# HTML-and-CSS-template1
-HTML and CSS template1
-# My Template Project
+# Template-Small-Profile
+Template-Small-Profile
+# Template-Small-Profile
 
 This project is a responsive and modern template built using HTML and CSS
 
