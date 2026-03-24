@@ -37,8 +37,4 @@ Thanks to **Osama Elzero** for the high-quality tutorials!
 
 For any feedback or suggestions, feel free to reach out.
 
----
-
-Feel free to modify it as needed for your own project.
-
 
