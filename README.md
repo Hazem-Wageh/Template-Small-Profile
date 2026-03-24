@@ -43,7 +43,7 @@ About Section
 Responsive View (Mobile)
 
 
-🔗 Live Demo
+🔗 Live Demo ( https://hazem-wageh.github.io/Template-Small-Profile/ )
 
 Check out the live demo of this template here:
 View Live Demo
